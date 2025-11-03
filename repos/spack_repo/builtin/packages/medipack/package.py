@@ -16,6 +16,9 @@ class Medipack(CMakePackage):
 
     maintainers("justinh2002")
 
+    version("1.3.3", sha256="e56a3cf93379ebdacb0778130e7476a779f2872978bdbab2471a9072ae8e23f0")
+    version("1.3.2", sha256="b5d307eac485fb23738dd1574572839a0e70ec38578d3d8eba471605a461c84b")
+    version("1.3.1", sha256="8b9841de207ee798fd8fc7cdc315917d0e2695ba39798cb5af7d18186cf862c8")
     version("1.3.0", sha256="81daf8391ca00286a1276408badc7f1c9f76af889eb16940601c0ffb5f229e1d")
     version("1.2.2", sha256="8937fa1025c6fb12f516cacf38a7f776221e7e818b30f17ce334c63f78513aa7")
     version("1.2.1", sha256="c746196b98cfe24a212584cdb88bd12ebb14f4a54728070d605e0c6d0e75db8a")
